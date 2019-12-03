@@ -1,0 +1,835 @@
+Employee ID,Name,Depertment,Designation,Email
+ 0000, Dewan Shamsul Alam, Manager IT, dewan.shamsul@sebpo.com,
+ 724, Onik Azad, Asst. System Administrator, IT, ovi@sebpo.com
+ 222, Arif Ashraful, Program Manager, Risk & Compliance, ashalam@sebpo.com
+ 165, Mohammad Readul Islam, Assistant Manager - Training & Development, Risk & Compliance, readul@sebpo.com
+ 185, Mohammad Shamsul Alam, Analyst, Risk & Compliance,
+ 192, Eftekar Rahman, Sr. Program Manager, Risk & Compliance, iftrahman@sebpo.com
+ 203, Shaokat Ahmed Khan, Assistant Program Manager, Risk & Compliance, khan@sebpo.com
+ 200, Rashida Akter Ruma, Program Manager, Risk & Compliance, rashida@sebpo.com
+ 247, Ahsan Ullah Majomder, Assistant Program Manager, Risk & Compliance, aumajomder@sebpo.com
+ 268, Abu Tayob Mohammad Bodruddaza, Senior Analyst, Risk & Compliance, abodruddaza@sebpo.com
+ 279, Touhidul Islam, Senior Analyst, Risk & Compliance, touislam@sebpo.com
+ 283, Dalim Mia, Assistant Program Manager, Risk & Compliance, dalmia@sebpo.com
+ 294, Abdullah Al Mamun, Assistant Program Manager, Risk & Compliance, almamun@sebpo.com
+ 327, Shihab Uddin Ahammed, Senior Analyst, Risk & Compliance, suahammed@sebpo.com
+ 256, Jamil Hossain Khan, Team Leader, Risk & Compliance, jhkhan@sebpo.com
+ 364, Mohibullah Al Mamun, Team Lead, Risk & Compliance, mamamun@sebpo.com
+ 334, Kamrul Hasan, Senior Analyst, Risk & Compliance, khasan@sebpo.com
+ 358, Goutam Kumar Das, Analyst, Risk & Compliance, gkdas@sebpo.com
+ 370, Md. Abul Hasan Bakar, Assistant Program Manager, Risk & Compliance, ahbakar@sebpo.com
+ 396, Tanzed Ahmed, Assistant Manager, Risk & Compliance, tanzeda@sebpo.com
+ 404, Rabeya Akter, Team Lead, Risk & Compliance, rabakter@sebpo.com
+ 407, Sarah Hasan, Analyst, Risk & Compliance, sarahh@sebpo.com
+ 412, Nazmul Hossain, Team Lead, Risk & Compliance, nazmulh@sebpo.com
+ 456, Al Miraj Pattowary, Trainer, Risk & Compliance, almirajp@sebpo.com
+ 457, Md. Rashaduzzaman, Analyst, Risk & Compliance, rashad@sebpo.com
+ 471, Ahmed-ur-Aziz, Team Leader, Risk & Compliance, aaziz@sebpo.com
+ 337, Md. Ajgor Khan, Program Manager, Digital Ad Operations, ajgor.khan@sebpo.com
+ 1999, Kamrul Hasan, kamrul.hasan@sebpo.com,,
+ 475, Mahbub Hossain, Executive, Digital Ad Operations, mahbub.hossain@sebpo.com
+ 234, Abdullah Yousuf Sarker, Assistant Program Manager, Digital Ad Operations, abdullah.sarker@sebpo.com
+ 269, Nusrat Ali Palash, Team Lead, Digital Ad Operations, napalash@sebpo.com
+ 342, Rashed Ahmed, Assistant Program Manager, Digital Ad Operations, rashed.ahmed@sebpo.com
+ 154, Kazi Md Mahtab Uddin, Senior Executive, Business Development, mahtab@sebpo.com
+ root,,,,
+ 104, Kazi Shahid, Manager, Administration, shahid@sebpo.com
+ 186, Shakil Jahangir, Operations Manager, Digital Ad Operations, shajahangir@sebpo.com
+ 115, Rasel Ahammad F&A, Manager, Finance & Accounts, rasel@sebpo.com
+ 506, Delower Hossain, Analyst, Risk & Compliance, delhossain@sebpo.com
+ 0000, Matt Kochan, matt@sebpo.com,,
+ 0000, Kevin Kochan, kevin@sebpo.com,,
+ 0000, Ray Adamson,,,
+ 0000, Krista Achey, krista@sebpo.com,,
+ 1944, Raju Ahmed, Sr. Operation Manager, Sales & Operations, raju.ahmed@sebpo.com
+ 569, Arjuda Anjum, Software Engineer, Software Development, arjuda.anjum@sebpo.com
+ 1358, Nazmus Saadat, SQA Engineer, Software Development, nazmus.saadat@sebpo.com
+ 578, Nafiur Rahman, Deputy Project Manager, Software Development, nafiur.rahman@sebpo.com
+ 1844, Mohammad Aliul Haque, Sr. Web Developer, Creative Development, aliul.haque@sebpo.com
+ 728, Aminul Islam, SQA Engineer, Software Development, aminul.islam@sebpo.com
+ 399, Rezaul Karim, Deputy Manager, Business Development, rezaul.karim@sebpo.com
+ 163, Shirshendu Das, SQA Engineer, Software Development, shirshendu.das@sebpo.com
+ 656, Tanveer Noman, Project Manager, Software Development, tanveer.noman@sebpo.com
+ 0000, Ems,,,
+ 637, Prashad Kumar Debnath, Senior Analyst, Risk & Compliance, pkdebnath@sebpo.com
+ 383, Rahullah, Team Lead, Risk & Compliance, rahullah@sebpo.com
+ 679, Ahsan Kabir, Analyst, Risk & Compliance, ahskabir@sebpo.com
+ 180, Mijanur Rahman, Team Lead, Risk & Compliance, mirahman@sebpo.com
+ 239, Muhammad Zafar Sadiq, Team Lead, Digital Ad Operations, zafar.sadiq@sebpo.com
+ 677, Tahmina Sultana, Account Manager, Call Quality Assurance, tahmina@sebpo.com
+ 700, SS Rahman, Senior Analyst, Risk & Compliance, ssrahman@sebpo.com
+ 1269, Harun Rashid, Executive, Digital Ad Operations, harun.rashid@sebpo.com
+ 0000, Grid,,,
+ 709, Kibria Suhel, Senior Analyst, Risk & Compliance, kibsuhel@sebpo.com
+ 711, Abdul Barek, Senior Analyst, Risk & Compliance, abdbarek@sebpo.com
+ 253, Tania Sultana, Executive, Digital Ad Operations, tania.sultana@sebpo.com
+ 535, Sharif Bin Habib, Senior Executive, Digital Ad Operations, sharif.habib@sebpo.com
+ 721, Palash Shaha, Senior Executive, Digital Ad Operations, palash.shaha@sebpo.com
+ 710, Shahriar Kabir, Executive, Digital Ad Operations, shahriar.kabir@sebpo.com
+ 722, Sanowar Hossain, Senior Executive, Digital Ad Operations, sanowar.hossain@sebpo.com
+ 742, Imran, Executive, Digital Ad Operations, imran@sebpo.com
+ 740, nipun.goap, Graphic Designer, Creative Development, nipun.goap@sebpo.com
+ 729, Shahnul Karim, SQA Engineer, Creative Development, shahnul.karim@sebpo.com
+ 717, Aysha Siddiquea, Analyst, Risk & Compliance, ayshas@sebpo.com
+ 257, Md. Ali Hossain, Executive, Digital Ad Operations, ali.hossain@sebpo.com
+ 398, amit.biswas, Team Lead, Digital Ad Operations, amit.biswas@sebpo.com
+ 653, Emon Khan, Team Lead, Digital Ad Operations, emon.khan@sebpo.com
+ 158, Mamun Rashid, Executive, Digital Ad Operations, mamun.rashid@sebpo.com
+ 379, Mazharul Islam, Team Lead, Digital Ad Operations, mazharul.islam@sebpo.com
+ 217, Rasel Ahmmed AD, Team Lead, Digital Ad Operations, rasel.ahmmed@sebpo.com
+ 0000, IT help, it-help@sebpo.com,,
+ 768, Eliza Dulal, Manager, HR, eliza.dulal@sebpo.com
+ 756, Masudullah, Executive, Call Quality Assurance, masud.ullah@sebpo.com
+ Arifur Rahman, Deputy Manager, Marketing & Communication, Operations, arifurr@sebpo.com
+ 752, Analyst, Risk & Compliance, rakhasan@sebpo.com,
+ 754, Analyst, Risk & Compliance,,
+ 764, Md. Mahabubuj Jaman, Analyst, Risk & Compliance, mahjaman@sebpo.com
+ 774, Md. Asaduzzaman, Executive, Digital Ad Operations, md.asaduzzaman@sebpo.com
+ 770, Shiful Islam, Executive, Digital Ad Operations, shiful.islam@sebpo.com
+ 539, Sm Rashel, Assistant Program Manager, Risk & Compliance, smrashel@sebpo.com
+ 784, Haniar Hossain, Team Lead, Digital Ad Operations, haniar.hossain@sebpo.com
+ 789, Zabed Hossain, Executive, Digital Ad Operations, zabed.hossain@sebpo.com
+ 809, Eusub Ali Shak, Analyst, Risk & Compliance, eashak@sebpo.com
+ 810, Zebrul Hossain, hossain.zebrul@sebpo.com,,
+ 835, Rownak Jahan, Analyst, Risk & Compliance, rownakj@sebpo.com
+ 834, Alif Mohammad Tanna, Analyst, Risk & Compliance, amtanna@sebpo.com
+ 870, Md. Nawshad Osman, Analyst, Risk & Compliance, nawosman@sebpo.com
+ 872,, Analyst, Risk & Compliance, fokislam@sebpo.com
+ 873, Nadia Parvin, Analyst, Risk & Compliance, nadiap@sebpo.com
+ 0000, Pragathi Rikkala, pragathi.rikkala@scrollmotion.com,,
+ 819, Saiful Azam, Senior Executive, Digital Ad Operations, saiful.azam@sebpo.com
+ 156, Shahriar, Analyst, Risk & Compliance, shahriar@sebpo.com
+ 916, A H M Khalequzzaman, Senior Executive, Call Quality Assurance, hossain.khaleq@sebpo.com
+ 345, Mahmuda Akter, Senior Analyst, Risk & Compliance, makter@sebpo.com
+ 904, Naima Akter, Analyst, Risk & Compliance,
+ 927, Nahid Hasan, Analyst, Risk & Compliance, nahidh@sebpo.com
+ 939, Noor Mohammad Shakil, Senior Executive, Call Quality Assurance, nmshakil@sebpo.com
+ 936, Niamul Hasan, Analyst, Risk & Compliance, niahasan@sebpo.com
+ 938, Kamrul Islam, Analyst, Risk & Compliance, kamislam@sebpo.com
+ 0000, Document Admin,,,
+ 953, Md. Enamul Hoque, Analyst, Risk & Compliance, enahoque@sebpo.com
+ 959, Rabeya  Saif, Executive, Digital Ad Operations, rabeya.saif@sebpo.com
+ 961, Tarin  Rahman, Executive, Digital Ad Operations, tarin.rahman@sebpo.com
+ 960, Tapan  Sarker, Executive, Digital Ad Operations, tapan.sarker@sebpo.com
+ 947, Analyst, Risk & Compliance, solhossain@sebpo.com,
+ 978, Amzad Hossain, Software Engineer, Creative Development, amzad.hossain@sebpo.com
+ 899, Mohammad Farhad Hossain, Analyst, Risk & Compliance, mfhossain@sebpo.com
+ 843, mosrahman, Analyst, Risk & Compliance, mosrahman@sebpo.com
+ 882, Nadia Morshed, Analyst, Risk & Compliance, nadiam@sebpo.com
+ 890, Wafil Bin Mukit, Analyst, Risk & Compliance, wbmukit@sebpo.com
+ 881, Tusar Karmoker, Team Leader, Risk & Compliance, tuskarmoker@sebpo.com
+ 974, Mohammad Abdullah Al Noman, Senior Analyst, Risk & Compliance, manoman@sebpo.com
+ 977, Pritom Bhowmik, Analyst, Risk & Compliance, pribhowmik@sebpo.com
+ 967, Md. Sakil, Analyst, Risk & Compliance, mdsakil@sebpo.com
+ 976, Tanveer Habib Mallik, Analyst, Risk & Compliance, thmallik@sebpo.com
+ 943, Abu Ofa Mohammad Atiullah, Analyst, Risk & Compliance, aomatiullah@sebpo.com
+ 0000, Lauren Kochan, lauren@sebpo.com,,
+ 839, Shaniat Nasim Khan Chowdhury, Analyst, Risk & Compliance, snkchowdhury@sebpo.com
+ 949, Mohammad Rasheduzzaman, Analyst, Risk & Compliance, mrasheduzzaman@sebpo.com
+ 970, Sajjadur Rahman, Analyst, Risk & Compliance, sajjadurr@sebpo.com
+ 876, Samiur Rahman, Executive, Digital Ad Operations, samiur.rahman@sebpo.com
+ 912, Shuvajeet Sen, Senior Executive, Digital Ad Operations, shuvajeet.sen@sebpo.com
+ 449, Syed Ashadullah, Senior Analyst, Risk & Compliance, syedma@sebpo.com
+ 628, mahfuzur rahman, Team Lead, Digital Ad Operations, mahfuzur.rahman@sebpo.com
+ 213, Pervez Mahmud, Senior Analyst, Risk & Compliance, pervez@sebpo.com
+ 1001, Akram Hossain, Chief Operating Officer, Operations, akram@sebpo.com
+ 901, Kanij Fatema, Analyst, Risk & Compliance, kanijf@sebpo.com
+ 1005, Kaisar Ahmed, Senior Manager, HR, kaisar.ahmed@sebpo.com
+ 984, Mamun Sheikh, Analyst, Risk & Compliance, mamsheikh@sebpo.com
+ 0000, Administrator,,,
+ 983, Tanvir Hasan Tonmoy, Analyst, Risk & Compliance, thtonmoy@sebpo.com
+ 988, Mohammad Masiur Rahman, Senior Analyst, Risk & Compliance, mmrahman@sebpo.com
+ 981, Rony Sarker, Analyst, Risk & Compliance, ronsarker@sebpo.com
+ 992, Rafiquddin, Analyst, Risk & Compliance, rafuddin@sebpo.com
+ 0000, rdcshare, rdcshare@sebpo.com,,
+ 1023, Maruf Hossain, Lead Software Engineer, Software Development, maruf.hossain@sebpo.com
+ 1002, Obaidur Rahman, Senior Executive, Digital Ad Operations, obaidur.baig@sebpo.com
+ 1003, saad.zahir, Executive, Digital Ad Operations, saad.zahir@sebpo.com
+ 1024, emdad.hossain, Senior Software Engineer, Creative Development, emdad.hossain@sebpo.com
+ 0000, Mark Thompson, mark@sebpo.com,,
+ 1044, Shakil Mahmod, Senior Executive, Digital Ad Operations, shakil.mahmod@sebpo.com
+ 0000, ASM Mohiuddin Monem, mohiuddin@amlbd.com,,
+ 1034, Tareq Aziz, Senior Executive, Digital Ad Operations, tareq.aziz@sebpo.com
+ 1052, Abdur Rahman, Software Engineer, Creative Development, abdur.rahman@sebpo.com
+ 1063, Mimu Saha, Software Engineer, Software Development, mimu.saha@sebpo.com
+ 1068, Omar Faruk IT, Sr Executive, IT, omar@sebpo.com
+ 1074, Masfekur Rahman, Software Engineer, Creative Development, masfekur.rahman@sebpo.com
+ 1072, Samrat Mistry, Executive, Digital Ad Operations, samrat.mistry@sebpo.com
+ 1077, Iqbal Ahmed, Executive, Digital Ad Operations,
+ 1105, Shedad Faruque, Executive, Digital Ad Operations, shedad.faruque@sebpo.com
+ 1108, Mahmudun Nabi, Executive, Digital Ad Operations, mahmudun.nabi@sebpo.com
+ 1107, Fuad Hossain, Senior Executive, Digital Ad Operations, fuad.hossain@sebpo.com
+ 1088, Mohammed Mohasin, Software Engineer, Software Development, mohammed.mohasin@sebpo.com
+ 1089, Mohammad Sabbir Arefin, Software Engineer, Software Development, sabbir.arefin@sebpo.com
+ 1073, Abu Sahadat, Executive, Digital Ad Operations, abu.sahadat@sebpo.com
+ 1086, Saiful Momen, Account Manager, Creative Development, saiful.momen@sebpo.com
+ 1119, Tawheedul Islam, Executive, IT, tawheedul.islam@sebpo.com
+ 1104, Normin Akhter, Executive, Digital Ad Operations, normin.akhter@sebpo.com
+ 1129, Anas Masud, Senior Executive, Digital Ad Operations, anas.masud@sebpo.com
+ 1100, Joyanta Datta, Senior Executive, Digital Ad Operations, joyanta.datta@sebpo.com
+ 1095, Readul Ferdous, Executive, Digital Ad Operations, readul.ferdous@sebpo.com
+ 1117, Manik Rihan, Junior Software Engineer, Creative Development, manik.rihan@sebpo.com
+ 1127, Sirajul Islam, Senior Software Engineer, Creative Development, sirajul.islam@sebpo.com
+ 1128, hossain.kamal, Senior Software Engineer, Creative Development, hossain.kamal@sebpo.com
+ 1126, shariful, Senior Software Engineer, Creative Development, shariful@sebpo.com
+ 1123, Tanbir Ahmed, Senior Software Engineer, Creative Development, tanbir.ahmed@sebpo.com
+ 1101, Jaljalalul Abedin, Executive, Digital Ad Operations, jaljalalul.abedin@sebpo.com
+ 1130, Hassan Ahmmed, Software Engineer, Creative Development, hassan.ahmmed@sebpo.com
+ 1079, Tania Sultana, Analyst, Risk & Compliance, tsultana@sebpo.com
+ 1138, Bright Well Raksam, Analyst, Risk & Compliance, braksam@sebpo.com
+ 1153, Zia Khalid, Analyst, Risk & Compliance, zkhalid@sebpo.com
+ 1142, Hossin Azad, Analyst, Risk & Compliance, hazad@sebpo.com
+ 1147, Monir Iqbal, Analyst, Risk & Compliance, miqbal@sebpo.com
+ 1164, Musaddique Al Azad, Executive, Digital Ad Operations, al.azad@sebpo.com
+ 1174, Sayed Sharif, Senior Executive, Digital Ad Operations, sayed.sharif@sebpo.com
+ 1041, Jamil Morol, Senior Executive, Digital Ad Operations, jamil.morol@sebpo.com
+ 1150, Shahriar Rahman, Analyst, Risk & Compliance, srahman@sebpo.com
+ 1050, Tangim Miagi, Senior Executive, Digital Ad Operations, tangim.miagi@sebpo.com
+ 1159, Sams Zubayer Mridha, Analyst, Risk & Compliance, mridha@sebpo.com
+ 1180, Shahriar Mohammad Shakil, Analyst, Risk & Compliance, sshakil@sebpo.com
+ 1200, Executive, Digital Ad Operations, sumon.ali@sebpo.com,
+ 1210, Executive, Digital Ad Operations, mamunor.rashid@sebpo.com,
+ 0000, Nick Rushton, nick@zephyrdigitalconsultancy.com,,
+ 1183, Tawkeer Tazoar, Analyst, Risk & Compliance, ttazoar@sebpo.com
+ 0000, Todd Sautter, todd@sebpo.com,,
+ 1203, Mohammad Mehedi Masud, Senior Executive, Digital Ad Operations, mehedi.masud@sebpo.com
+ 1205, Obaidur Rahman, Executive, Digital Ad Operations, obaidur.rahman@sebpo.com
+ 1092, Shah Jalal, Executive, Digital Ad Operations, shah.jalal@sebpo.com
+ 1124, Shafayatul Islam, Senior Software Developer, Creative Development, shafayatul.islam@sebpo.com
+ 1093,, Executive, Digital Ad Operations, apu.das@sebpo.com
+ 776, Hedayetul Haque, Senior Executive, Digital Ad Operations, hedayetul.haque@sebpo.com
+ 1212, Mohammad Saiful Islam, Executive, Digital Ad Operations, islam.saiful@sebpo.com
+ 1204, Arghya Dyuti Sur, Executive, Digital Ad Operations, arghya.dyuti@sebpo.com
+ 1215, fhossain, Analyst, Risk & Compliance, fhossain@sebpo.com
+ 1218, Sahin Alom, Executive, Digital Ad Operations, sahin.alom@sebpo.com
+ 1217, Sabbir Hossain, Executive, Digital Ad Operations, sabbir.hossain@sebpo.com
+ 1207,, Senior Executive, Digital Ad Operations, ashraful.alam@sebpo.com
+ 914, Jakir Hossain, Executive, Digital Ad Operations, jakir.hossain@sebpo.com
+ 1257, nistasnim, Analyst, Risk & Compliance, nistasnim@sebpo.com
+ 1232, jannaima, Analyst, Risk & Compliance, jannaima@sebpo.com
+ 1228, Afeya Nayem, Analyst, Risk & Compliance, afnayem@sebpo.com
+ 1230, Mahbubur Rahman, Analyst, Risk & Compliance, mahbubur@sebpo.com
+ 1233, Shamsu Uddin Mojumder, Analyst, Risk & Compliance, sumojumder@sebpo.com
+ 1234, Md. Tanvir Ahsan, Analyst, Risk & Compliance, tanahsan@sebpo.com
+ 1265, Shahadat Hossain, Executive, Digital Ad Operations, shahadat.hossain@sebpo.com
+ 1264, prodip.kumar, Executive, Digital Ad Operations, prodip.kumar@sebpo.com
+ 1243, Ifrat Zahan, Analyst, Risk & Compliance, ifzahan@sebpo.com
+ 1267, Md. Nazmul Alam, Executive, Digital Ad Operations, nazmul.alam@sebpo.com
+ 1301, Tamanna Farzana, Executive, Digital Ad Operations, tamanna.farzana@sebpo.com
+ 1312, Sumi Akter, Executive, Digital Ad Operations, sumi.akter@sebpo.com
+ 1302, Jaya Roy, Executive, Digital Ad Operations, jaya.roy@sebpo.com
+ 1300, Liaquat Ali, Executive, Digital Ad Operations, liaquat.ali@sebpo.com
+ 1323, Md. Ali Reja, Analyst, Risk & Compliance, alreja@sebpo.com
+ 1322, Rafiqul Islam Sumon, Analyst, Risk & Compliance, raislam@sebpo.com
+ 1329, Musarrat Tasnim, Analyst, Risk & Compliance, mustasnim@sebpo.com
+ 1364, Abu Saleh Sanim, Analyst, Risk & Compliance, absaleh@sebpo.com
+ 1283, Motasim Billah, Executive, Digital Ad Operations, motasim.billah@sebpo.com
+ 1275, Tariq Iqbal, Executive, Digital Ad Operations, tariq.iqbal@sebpo.com
+ 1289, Faisal Ahmed, Executive, Digital Ad Operations, faisal.ahmed@sebpo.com
+ 1296, Nayeem Ahmed, Executive, Digital Ad Operations, nayeem.ahmed@sebpo.com
+ 1307, Reaz Mahmud, Executive, Digital Ad Operations, reaz.mahmud@sebpo.com
+ 1295, Raju Ahamed, Executive, Digital Ad Operations, raju.ahamed@sebpo.com
+ 1299, Abadur Rahman, Executive, Digital Ad Operations, abadur.rahman@sebpo.com
+ 310, Md. Samsudduha Khan, Analyst, Risk & Compliance, samkhan@sebpo.com
+ 1306, masud.rana, Executive, Digital Ad Operations, masud.rana@sebpo.com
+ 1282, azmul.hasan, Executive, Digital Ad Operations, azmul.hasan@sebpo.com
+ 1290, mustafizur.rahman, Executive, Digital Ad Operations, mustafizur.rahman@sebpo.com
+ 1314,, Executive, Digital Ad Operations, arif.sarker@sebpo.com
+ 1315, Executive, Digital Ad Operations, tanvir.saiham@sebpo.com,
+ 1334, Firoz Talukder, Executive, Business Development, firoz.talukder@sebpo.com
+ 1339, Sazia Afrin, Executive, Digital Ad Operations, sazia.afrin@sebpo.com
+ 1273, Rasel Mahmud, Executive, Digital Ad Operations, rasel.mahmud@sebpo.com
+ 1279,, Executive, Digital Ad Operations, farhad.mia@sebpo.com
+ 1351, Rocky Ghosh, Senior Executive, Digital Ad Operations, rocky.ghosh@sebpo.com
+ 1347, Kazi Sumaia, Executive, Digital Ad Operations, kazi.sumaia@sebpo.com
+ 1353, Fatema Mamun, Executive, Digital Ad Operations, fatema.mamun@sebpo.com
+ 1360, sahossain, Analyst, Risk & Compliance, sahossain@sebpo.com
+ 1343, Shovo Saha, Executive, Digital Ad Operations, shovo.saha@sebpo.com
+ 1375, Baijed Hossain, Analyst, Risk & Compliance, bhbipul@sebpo.com
+ 1355, Moshiour Rahman, Executive, Digital Ad Operations, moshiour.rahman@sebpo.com
+ 1350, Mehrab Hossain, Executive, Digital Ad Operations, mehrab.hossain@sebpo.com
+ 1317, Sadia Afroz, Executive, Digital Ad Operations, sadia.afroz@sebpo.com
+ 1357, razib.hossain, Software Engineer, Creative Development, razib.hossain@sebpo.com
+ 1366, Al Shahriar, Executive, IT, alshahriar@sebpo.com
+ 0000, Room Admin,,,
+ 1359, Asfar Furquan Uddin Ahmed, SQA Engineer, Software Development, asfar.furquan@sebpo.com
+ 917, Shamim Shahnewaz, Senior Software Engineer, Software Development, shamim.shahnewaz@sebpo.com
+ 643, Sharif Naser, Executive, Digital Ad Operations,
+ 1370, Abdul Awal, SQA Engineer, Software Development, abdul.awal@sebpo.com
+ 0000, Lisa Rosado, lisa.rosado@sebpo.com,,
+ 143, Ayan Sarkar, Client Manager, Risk & Compliance, ayan@sebpo.com
+ 1377, Sadhan Sarkar, Executive, IT, sadhan.sarkar@sebpo.com
+ 1379, Asraful Islam, System Administrator, IT, asraful.islam@sebpo.com
+ 1500, Aminul Islam Chowdhury, Analyst, Risk & Compliance, aichowdhury@sebpo.com
+ 1386, Mohammad Sulaiman Redoy, Analyst, Risk & Compliance, sredoy@sebpo.com
+ 966, Jakia Sultana, Analyst, Risk & Compliance, jaksultana@sebpo.com
+ 0000, EMP1,,,
+ 1396, Muntakimu Iislam, Executive, Digital Ad Operations, muntakimul.islam@sebpo.com
+ 1402, Farzana Sultana, Executive, Business Development, farzana.sultana@sebpo.com
+ 1407, matrahman, Analyst, Risk & Compliance, matrahman@sebpo.com
+ 0000, HRIS,,,
+ 0000, gogs,,,
+ 1398, Noor  Anika, Executive, Digital Ad Operations, noor.anika@sebpo.com
+ 1395, Md Alamin, Executive, Digital Ad Operations, md.alamin@sebpo.com
+ 0000, Hris 2,,,
+ 0000, Hris 1,,,
+ 0000, hris 3,,,
+ 1422, kazi romim, Executive, Call Quality Assurance, kazi.romim@sebpo.com
+ 1561, taisir hussain, Project Coordinator, Business Development, taisir.hussain@sebpo.com
+ 1437, Khondker Rumon Bin Wali, Analyst, Risk & Compliance, krbwali@sebpo.com
+ 1439, Bikash Chandra Debnath, SQA Engineer, Creative Development, bikash.chandra@sebpo.com
+ 1432, Eyasin Arafat, Executive, Digital Ad Operations, eyasin.arafat@sebpo.com
+ 1461, Syed Rifat, Executive, Digital Ad Operations, syed.rifat@sebpo.com
+ 1427, PRANTA.GHOSH, Executive, Digital Ad Operations, pranta.ghosh@sebpo.com
+ 1428,, Senior Executive, Digital Ad Operations, fahad.mahadi@sebpo.com
+ 1430,, Executive, Digital Ad Operations, fahim.mahmud@sebpo.com
+ 1425, Khalid Hasan, Executive, Digital Ad Operations, khalid.hasan@sebpo.com
+ 1436, Mahmudul Hasan, Executive, Digital Ad Operations, hasan.mahmudul@sebpo.com
+ 1467, Sojib Khan, Executive, Digital Ad Operations, sojib.khan@sebpo
+ 1511, Soud Ahmed, Analyst, Risk & Compliance, souda@sebpo.com
+ 1510, Md. Ianoor Hasan, Analyst, Risk & Compliance, ianoorh@sebpo.com
+ 1550, Sohag Adhikari, Analyst, Risk & Compliance, sadhikari@sebpo.com
+ 1560, Md. Sazal Mahmud, Analyst, Risk & Compliance, smahmud@sebpo.com
+ 1475, Mohammad Arif Karim Chowdhury, Senior Executive, Finance & Accounts, arif.karim@sebpo.com
+ 1484, Rabeya Rimu, Executive, Digital Ad Operations, rabeya.rimu@sebpo.com
+ 1551, Maksud Munshi, Analyst, Risk & Compliance, mmunshi@sebpo.com
+ 1556, Nadia Sultana, Analyst, Risk & Compliance, nsultana@sebpo.com
+ 1485, Mohammad Asaduzzaman, Executive, Digital Ad Operations, mohammad.asaduzzaman@sebpo.com
+ 1478, Executive, Digital Ad Operations, shadid.khan@sebpo.com,
+ 1483, Sourav Chakraborty, Executive, Digital Ad Operations, sourav.chakraborty@sebpo.com
+ 1564, Abdus Salam, Executive, Digital Ad Operations, abdus.salam@sebpo.com
+ 1419, Reefaz Rahman, Analyst, Risk & Compliance, rrahman@sebpo.com
+ 1466, Md. Maruf Hasan Sowdagor, Executive, Digital Ad Operations, maruf.hasan@sebpo.com
+ 1562, Tahmeda Saif, Executive, Digital Ad Operations, tahmeda.saif@sebpo.com
+ 1462, Tanvir Mahmud, Executive, Digital Ad Operations, tanvir.mahmud@sebpo.com
+ 1524, Arif Hossen, Analyst, Risk & Compliance, ahossen@sebpo.com
+ 1523, Rifatul Islam HImel, Analyst, Risk & Compliance, rihimel@sebpo.com
+ 1521, Analyst, Risk & Compliance, rkorim@sebpo.com,
+ 1503, Rony Pramanic, Analyst, Risk & Compliance, rpramanic@sebpo.com
+ 1442, Zubin  Faisal, Manager, HR, zubin.faisal@sebpo.com
+ 1420, Sujit Karmokar, Analyst, Risk & Compliance, skarmokar@sebpo.com
+ 1602, BM Amdadul Haque, Analyst, Risk & Compliance, amdhaque@sebpo.com
+ 1316, Asad Nipson, Executive, Digital Ad Operations, asad.nipson@sebpo.com
+ 1532, Tayeb Samir, Analyst, Risk & Compliance, tsamir@sebpo.com
+ 1594, Shohel Rana, Executive, Digital Ad Operations, shohel.rana@sebpo.com
+ 982, Nusrat Jahan, Analyst, Risk & Compliance, nusratj@sebpo.com
+ 1570, Md. Zia Uddin, Executive, IT, zia.uddin@sebpo.com
+ 1499, Gazi Alim Al Razy, Manager, Business Development, gazi.alim@sebpo.com
+ 1537, Mostakim Faruk, Analyst, Risk & Compliance, mfaruk@sebpo.com
+ 1536, Rabina Islam, Analyst, Risk & Compliance, rabislam@sebpo.com
+ 1541, Rahul Kumar, Analyst, Risk & Compliance, rkumar@sebpo.com
+ 1553, Zahid Hasan, Analyst, Risk & Compliance, zhasan@sebpo.com
+ 1508, Mohosina Begum, Analyst, Risk & Compliance, mbegum@sebpo.com
+ 1575, Mehnaj Tabassum, Executive, Digital Ad Operations, mehnaj.tabassum@sebpo.com
+ 1576, Shaheen Mamun, Executive, Digital Ad Operations, shaheen.mamun@sebpo.com
+ 1535, Shoaibul Alam, Analyst, Risk & Compliance, shoaibula@sebpo.com
+ 1498, Neeloy Hoque, Senior Executive, HR, neeloy.hoque@sebpo.com
+ 1589, Md.Mofiz Uddin Bhuiyan, Executive, Digital Ad Operations, mofiz.uddin@sebpo.com
+ 1583, Farhanul Islam, Executive, Digital Ad Operations, farhanul.islam@sebpo.com
+ 1584, Shoumik Rifat, Executive, Digital Ad Operations, shoumik.rifat@sebpo.com
+ 1592, Assahduzzaman Towhid, Executive, Digital Ad Operations, assahduzzaman.towhid@sebpo.com
+ 1522, Hossain Arshaduzzaman, Analyst, Risk & Compliance, hossaina@sebpo.com
+ 0000, Admin Asraf,,,
+ 0000, Admin Ovi,,,
+ 0000, Admin Mahmudul,,,
+ 0000, Admin Kaisar,,,
+ 0000, Admin Neeloy,,,
+ 1624, Tahazzut Hossain, Executive, Digital Ad Operations, tahazzut.hossain@sebpo.com
+ 1635, Abu Saeed, Executive, Digital Ad Operations, abu.saeed@sebpo.com
+ 1634, Marjook Ahmed, Executive, Digital Ad Operations, marjook.ahmed@sebpo.com
+ 1638, Shams Zaman, Executive, Digital Ad Operations, shams.zaman@sebpo.com
+ 1608, Sk Asif Uddin, Executive, Digital Ad Operations, asif.uddin@sebpo.com
+ 1611, Samiran Kumar Roy, Executive, Digital Ad Operations, samiran.roy@sebpo.com
+ 1631, Shawon Das, Executive, Digital Ad Operations, shawon.das@sebpo.com
+ 1628, Md. Redwan Nasim, Executive, Digital Ad Operations, redwan.nasim@sebpo.com
+ 1630, Mohammad Mehedi Pasha, Executive, Digital Ad Operations, mehedi.pasha@sebpo.com
+ 1620, Tonmoy Rahman, Executive, Digital Ad Operations, tonmoy.rahman@sebpo.com
+ 1610, Anwara Rahman, Executive, Digital Ad Operations, anwara.rahman@sebpo.com
+ 1614, Mahful Islam, Executive, Digital Ad Operations,
+ 1616, Reaz Uddin, Executive, Digital Ad Operations, reaz.uddin@sebpo.com
+ 1636, Sohel Rana, Senior Executive, Administration, sohel.rana@sebpo.com
+ 1045, Abu Hanif, Senior Executive, Digital Ad Operations, abu.hanif@sebpo.com
+ 1618, Anindya Sarker, Executive, Digital Ad Operations, anindya.sarker@sebpo.com
+ 1639, Polash Kumar Chanda, Analyst, Risk & Compliance,
+ 1639, Polash Kumar Chanda, Analyst, Risk & Compliance, pkchanda@sebpo.com
+ 1429, Rezwanu Islam, Executive, Digital Ad Operations, rezwanul.islam@sebpo.com
+ 1643, Md. Golam Mostofa, Senior Executive, Finance & Accounts, golam.mostofa@sebpo.com
+ 0000, phytelshare,,,
+ 1645, Balayet Hossain, Analyst, Risk & Compliance, bhossain@sebpo.com
+ 1653, Nayeem Abrar, Executive, Digital Ad Operations, nayeem.abrar@sebpo.com
+ 1656, Mubinur Rahman, Executive, Digital Ad Operations, mubinur.rahman@sebpo.com
+ 1659, Rifat Nigar, Executive, Digital Ad Operations, rifat.nigar@sebpo.com
+ 1665, Sudip Kumar, Executive, Digital Ad Operations, sudip.kumar@sebpo.com
+ 1681, Maruf Ahmed, Executive, IT, maruf.ahmed@sebpo.com
+ 1651, Christopher D'Costa, Executive, Digital Ad Operations, christopher.costa@sebpo.com
+ 1662, Md Abu Shahed Hassan Rupam, Executive, Digital Ad Operations, shahed.hassan@sebpo.com
+ 1663, Shahidul Islam Russel, Executive, Digital Ad Operations, shahidul.russel@sebpo.com
+ 1646, Rifat Ahmed Ritul, Executive, Call Quality Assurance, rifat.ahmed@sebpo.com
+ 1682, Md. Mahmud Hasan, Executive, Administration, mahmud@sebpo.com
+ 1683, Md. Rezaur Rahman, Head of Strategy & Program Management, Operations, rezaur@sebpo.com
+ 1690, Nayel Moktafi, Analyst, Risk & Compliance, nmoktafi@sebpo.com
+ 1654, Nazmus Saquib, Executive, Digital Ad Operations, nazmus.saquib@sebpo.com
+ 1649, Dipraj Saha, Executive, Digital Ad Operations, dipraj.saha@sebpo.com
+ 1706, Farjin Tabin, Analyst, Risk & Compliance, ftabin@sebpo.com
+ 1709, Nasir Uddin, Analyst, Risk & Compliance, nuddin@sebpo.com
+ 1711, Rafayat Hossain, Analyst, Risk & Compliance, rafayath@sebpo.com
+ 1712, Shoriful Islam Tanvir, Analyst, Risk & Compliance, sitanvir@sebpo.com
+ 1713, Mahadi Hasan Nabil, Analyst, Risk & Compliance, mhnabil@sebpo.com
+ 1719, Parvez Hossain, Analyst, Risk & Compliance, phossain@sebpo.com
+ 1720, Mansura Akter, Analyst, Risk & Compliance, mansuraa@sebpo.com
+ 1722, waizun.mustahin, Software Engineer, Creative Development, waizun.mustahin@sebpo.com
+ 1744, Raisul Islam, Senior Executive, Business Development, r.islam@sebpo.com
+ 1735, Md. Siful Alam, Analyst, Risk & Compliance, sifula@sebpo.com
+ 1739, Dhrubo Jyoti Barmon, Analyst, Risk & Compliance, djbarmon@sebpo.com
+ 1701, Kazi Hasanuzzaman, Executive, Digital Ad Operations, kazi.hasanuzzaman@sebpo.com
+ 1698, Ahsanul Kabir, Executive, Digital Ad Operations, ahsanul.kabir@sebpo.com
+ 1693, Abdulla Al Mamun, Executive, Digital Ad Operations, abdulla.mamun@sebpo.com
+ 1740, Esmat Momtaz, Salesforce Data Analyst, Business Development, esmat.momtaz@sebpo.com
+ 1741, Noorjahan Anila, Salesforce Data Analyst, Business Development, noorjahan.anila@sebpo.com
+ 1742, md. khaled Hossain Khan, Executive, IT, khaled.hossain@sebpo.com
+ 1746, Saddam Hossain, Analyst, Risk & Compliance, saddamh@sebpo.com
+ 1747, Ahkamul Islam, Analyst, Risk & Compliance, ahkamuli@sebpo.com
+ 1751, Taslima Kowser, Analyst, Risk & Compliance, tkowser@sebpo.com
+ 1754, Awal Hossain, Analyst, Risk & Compliance, awalh@sebpo.com
+ 1758, Mominur Rahman, Analyst, Risk & Compliance, mominurr@sebpo.com
+ 1761, Sajib Chakma, Analyst, Risk & Compliance, schakma@sebpo.com
+ 1199, Saiful Islam, Executive, Digital Ad Operations, saiful.islam@sebpo.com
+ 1767,, Analyst, Risk & Compliance, ssrab@sebpo.com
+ 1784, Analyst, Risk & Compliance, rasagar@sebpo.com,
+ 1786, Analyst, Risk & Compliance, iknahian@sebpo.com,
+ 1804, Amir Sohel, Analyst, Risk & Compliance, asohel@sebpo.com
+ 1219, Jannatul Adnan, Executive, Digital Ad Operations, jannatul.adnan@sebpo.com
+ 793, Moynul Haque, Team Lead, Digital Ad Operations, moynul.haque@sebpo.com
+ 1810, Jahangir Alam, Analyst, Risk & Compliance, jalam@sebpo.com
+ 1819, Shams Alam Bhuiyan, Trainee Analyst, Risk & Compliance, sabhuiyan@sebpo.com
+ 1820, Trainee Analyst, Risk & Compliance, mahbuburr@sebpo.com,
+ 1822, Tariq Ishtiq, Executive, IT, tariq.ishtiaq@sebpo.com
+ 1821, Enam Tuhin, Executive, IT, enam.tuhin@sebpo.com
+ 1809, Shahoriar Kabir, Executive, Digital Ad Operations, shahoriar.kabir@sebpo.com
+ 1823, Rubayet Zaman, Trainee Analyst, Risk & Compliance, rzaman@sebpo.com
+ 1825, Khairul Bashar, Trainee Analyst, Risk & Compliance, kbashar@sebpo.com
+ 1826, Nafisa Sal Sabil Mim, Trainee Analyst, Risk & Compliance, nsmim@sebpo.com
+ 1827, Nazmun Nahar, Trainee Analyst, Risk & Compliance, nnahar@sebpo.com
+ 1830, Asaduzzaman Sohel, Trainee Analyst, Risk & Compliance, asaduzzamans@sebpo.com
+ 1833, Sozol Ahmed Shuvo, Trainee Analyst, Risk & Compliance, sashuvo@sebpo.com
+ 1843, Sayed Ali, Executive, Administration,
+ 1840, Inzamam Hossain, Trainee Executive, Digital Ad Operations, inzamam.hossain@sebpo.com
+ 1845, Khoda Bkash, Sr. Web Developer, Creative Development, khoda.baksh@sebpo.com
+ 1621, Hasibul Hasan, Executive, Digital Ad Operations, hasibul.hasan@sebpo.com
+ 1852, Afrin Mahmud, Analyst, Risk & Compliance, amahmud@sebpo.com
+ 1856, Imrul Hafiz, Trainee Analyst, Risk & Compliance, ihafiz@sebpo.com
+ 1871, Hosain Ahmed, Analyst, Risk & Compliance, hahmed@sebpo.com
+ 1872, Jahangir Alam, Trainee Analyst, Risk & Compliance, jahangira@sebpo.com
+ 1874, Mr. Ahmed Amman Shovon, Executive, Digital Ad Operations, ahmed.shovon@sebpo.com
+ 1879, Kamrul Haque Diack, Executive, Administration, kamrul.haque@sebpo.com
+ 1756, Shubhra Chakraborty, Analyst, Risk & Compliance, schakraborty@sebpo.com
+ 1883, M.A. Masud, Software Engineer, Software Development, masud.bappy@sebpo.com
+ 1783, Sheikh Mohammad Shafiqun Noor, Analyst, Risk & Compliance, smsnoor@sebpo.com
+ 1160, Mushtahir Aziz Rahman, mushtahir.aziz@sebpo.com,,
+ 1888, Trainee Executive, Digital Ad Operations, robiul.kabir@sebpo.com,
+ 1782, Tawkir Islam Khan Rabby, Analyst, Risk & Compliance, tikrabby@sebpo.com
+ 1777, Abdullah Al Mahmud,,, aamahmud@sebpo.com
+ 1886, Shafiq Islam, Trainee Executive, Digital Ad Operations, shafiq.islam@sebpo.com
+ 1846, Safiul Alam, safiul.alam@sebpo.com,,
+ 1884, Sushanta Saha, Executive, Digital Ad Operations, sushanta.saha@sebpo.com
+ 1894, Arif Hossain Khan, Sr. Web Developer, Creative Development, arif.hossain@sebpo.com
+ 1892, Rahat Salekin, Web Developer, Creative Development, rahat.salekin@sebpo.com
+ 1893,, Web Developer, Creative Development, shahedur.rahman@sebpo.com
+ 1891, Md. Shihab Uddin, Android Developer, Software Development,
+ 1895, Rajib Karmaker, Web Developer, Creative Development, rajib.karmaker@sebpo.com
+ 1849, S. M. Muakherul Islam, Trainee Executive, Digital Ad Operations, muakherul.islam@sebpo.com
+ 1876, Md. Omor Faruk, Trainee Executive, Digital Ad Operations, omar.faruk@sebpo.com
+ 1897, Raisul Islam, Executive, Digital Ad Operations, islam.raisul@sebpo.com
+ 1904, Leona Mumtaz, Executive, HR, leona.mumtaz@sebpo.com
+ 1911, Muhammad Hasinul Alam, Lead Designer, SE Digital, hasinul.alam@sebpo.com
+ 1908, Mohammad Shoab, Executive, Digital Ad Operations, shoab@sebpo.com
+ 1875, Mahabubul Haque, Trainee Executive, Digital Ad Operations,
+ 1878, Md. Mazharul Haque Shad, Trainee Executive, Digital Ad Operations, mazharul.haque.shad@sebpo.com
+ 1796, Salim Hossain, Executive, Digital Ad Operations, salim.hossain@sebpo.com
+ 1899, Md. Sayed Anwar, Executive, Digital Ad Operations, sayed.anwar@sebpo.com
+ 1909, Mohammad Baki Billah khan, Executive, Digital Ad Operations,
+ 1033, Asif Iqbal, Senior Executive, Digital Ad Operations, asif.iqbal@sebpo.com
+ 1906, Hasan Kamrul, Executive, Digital Ad Operations, hasan.kamrul@sebpo.com
+ 1907, Lalon Karim, Executive, Digital Ad Operations, lalon.karim@sebpo.com
+ 1913, Anwara Binte Amzad, Analyst, Risk & Compliance, anamzad@sebpo.com
+ 1920, Necolus Gonsalves, Analyst, Risk & Compliance, ngonsalves@sebpo.com
+ 1922, Md.Obeydur Rahman, Executive, IT, obeydur.rahman@sebpo.com
+ 1923, Baitun Nahar, Executive, Human Resource, baitun.nahar@sebpo.com
+ 1928, Syed Towhidul Islam, sahidul.islam, Digital Ad Operations, towhidul.islam@sebpo.com
+ 1926, Shovan Mazumder, Executive, Digital Ad Operations, shovan.mazumder@sebpo.com
+ 1932, Asaduzzaman, Executive, Digital Ad Operations, asaduzzaman@sebpo.com
+ 1934, Shahriar Hossain, Executive, Digital Ad Operations, shahriar.hossain@sebpo.com
+ 1940, Jahangir Alam, Android Developer, Software Development, jahangir.alam@sebpo.com
+ 1941, Shahjada Tawhid Khan, Project Manager, Creative Development, tawhid.khan@sebpo.com
+ 1942, Mohammad Mahmud Rasid, Sr. Executive, HR, mahmud.rashid@sebpo.com
+ 1792, Ruhul Amin, Executive, Digital Ad Operations, ruhul.amin@sebpo.com
+ 1925, MD Moinul Hossain Khan, Executive, Digital Ad Operations, moinul.hossain@sebpo.com
+ 1950, Sikder Rasheduzzaman, Executive, Digital Ad Operations, sikder.rasheduzzaman@sebpo.com
+ 1937, Sanjan Rahman, Executive, Digital Ad Operations, sanjan.rahman@sebpo.com
+ 1961, Jeashan Mahamud, Executive, IT, jeashan.mahamud@sebpo.com
+ 1944, Raju Ahmed, raju.ahmed@aiimglobal.com,,
+ 1967, Md Iqbal Ahmed, mdiqbal.ahmed@sebpo.com,,
+ 1965, Koushik Ahmmed Tushar, Executive, Digital Ad Operations, koushik.ahmmed@sebpo.com
+ 1971, MD. Shohel Rana, Executive, Digital Ad Operations, mdshohel.rana@sebpo.com
+ 1968, Avizit Swar, Executive, Digital Ad Operations, avizit.swar@sebpo.com
+ 1969, Abdhullah Noman,,, abdhullah.noman@sebpo.com
+ 1947, Tarequl Islam, Executive, Digital Ad Operations, tarequl.islam@sebpo.com
+ 1956, Miraz Kabir, Executive, Digital Ad Operations, miraz.kabir@sebpo.com
+ 1953, Farhad Hossain, farhad.hossain@sebpo.com,,
+ 1958, Khaled Mahmud, Executive, Digital Ad Operations, khaled.mahmud@sebpo.com
+ 1962, Aman Uddin, Executive, Digital Ad Operations, aman.uddin@sebpo.com
+ 1979, Alamin Mia, Analyst, Risk & Compliance, amia@sebpo.com
+ 1980, Shuvo Das, Analyst, Risk & Compliance, shuvod@sebpo.com
+ 1981, Yasmin Akter, Analyst, Risk & Compliance, yakter@sebpo.com
+ 1983, Masum Billah, Analyst, Risk & Compliance, masumb@sebpo.com
+ 1986, Sayedur Rahman, Analyst, Risk & Compliance, sayedurr@sebpo.com
+ 1987, Sadia Afroj Marin, Analyst, Risk & Compliance, samarin@sebpo.com
+ 1990, Arobindu Majumdar, amajumdar@sebpo.com,,
+ 1994, Tahsina Binte Hanif, tbhanif@sebpo.com,,
+ 1995, Ashish Kumer Das, akdas@sebpo.com,,
+ 1996, Fazlee Rabby, Analyst, Risk & Compliance, frabby@sebpo.com
+ 2009, Md Nayeem Miah, Executive, Digital Ad Ops, mdnayeem.miah@sebpo.com
+ 2017, Executive, Digital Ad Ops, sayedarifat.sultana@sebpo.com,
+ 2007, Nayeemhasan Khan, Executive, Digital Ad Ops, nayeemhasan.khan@sebpo.com
+ 1998, Md. Ismail Hossain Rana, Executive, Digital Ad Ops, ismail.rana@sebpo.com
+ 2002, Mejbah Uddin Naeim, Executive, Digital Ad Ops, mejbah.naeim@sebpo.com
+ 1939, Taslima Akter Ria, Executive, Administration, taslima.ria@aiimglobal.com
+ 2011, Md. Rony Hossain, Executive, Digital Ad Ops, rony.hossain@sebpo.com
+ 2001, Prosenjit Shikdar, Executive, Digital Ad Ops, prosenjit.shikdar@sebpo.com
+ 2013, Md. Ismail Hossain, Executive, Digital Ad Ops, ismail.hossain@sebpo.com
+ 2004, Munim Ahmed, Executive, Digital Ad Ops, munim.ahmed@sebpo.com
+ 1972, Md. Washimul Bari, Executive, Digital Ad Operations, washimul.bari@sebpo.com
+ 1963, Executive, Digital Ad Operations, ruman@sebpo.com,
+ 1970, HM Shofiqur Rahman, Executive, Digital Ad Operations, shofiqur.rahman@sebpo.com
+ 2019, Md Monir Hossan, Executive, Digital Ad Ops,
+ 1788, Shahrijoan Chowdhuary, Analyst, Risk & Compliance, schowdhuary@sebpo.com
+ 958, Shobnome Mostary, Team Lead, Digital Ad Operations, shobnome.mostary@sebpo.com
+ 1201, Salim Reza, Executive, Digital Ad Operations, salim.reza@sebpo.com
+ 773, Shirajum Munir, Team Lead, Digital Ad Operations, shirajum.munir@sebpo.com
+ 1097, Seyed Sheikh, Executive, Digital Ad Operations, sayed.sheikh@sebpo.com
+ 1352, Yeasin Arafat, Executive, Digital Ad Operations, yeasin.arafat@sebpo.com
+ 2015, Kapil datta, Executive, Digital Ad Ops, kapil.datta@sebpo.com
+ 2003, Golam rizvi, Executive, Digital Ad Ops, golam.rizvi@sebpo.com
+ 2014, Mehedi ridoy, Executive, Digital Ad Ops, mehedi.ridoy@sebpo.com
+ 2024, Ishak ahmed, Executive, Digital Ad Ops, ishak.ahmed@sebpo.com
+ 2039, Moshiur rahman, Executive, Digital Ad Ops, moshiur.rahman@sebpo.com
+ 2028, Md. Aman Ullah, Executive, Digital Ad Ops, aman.ullah@sebpo.com
+ 2036, Noshin Saiyara Rabbi, Executive, Digital Ad Ops, noshin.rabbi@sebpo.com
+ 1534, Zahidul Alam, Analyst, Risk & Compliance, zalam@sebpo.com
+ 2021, Towhid Hasan, Executive, Digital Ad Ops, towhid.hasan@sebpo.com
+ 623, Imran Ahmed, Assistant Program Manager, Digital Ad Operations, imran.ahmed@sebpo.com
+ 2037, Pallabe Saha, Executive, Digital Ad Ops, pallabe.saha@sebpo.com
+ 2031, Farzana Akter Priyanka, Executive, Digital Ad Ops, farzana.priyanka@sebpo.com
+ 2032, Shakila Akter, Executive, Digital Ad Ops, shakila.akter@sebpo.com
+ 2034, Alamin Hossain, Executive, Digital Ad Ops, alamin.hossain@sebpo.com
+ 2023, Md. Towhidul Islam, Executive, Digital Ad Ops, md.towhidul@sebpo.com
+ 2035, Md. Omiul Islam, Executive, Digital Ad Ops, omiul.islam@sebpo.com
+ 2020, Akash Martin Mondol, Executive, Digital Ad Ops, akash.martin@sebpo.com
+ 2033, Asif Iqbal, Executive, Digital Ad Ops, iqbal.asif@sebpo.com
+ 2041, Farhan Ali, Analyst, Risk & Compliance, fali@sebpo.com
+ 2044, Shanaous Akanda Neshat, Analyst, Risk & Compliance, saneshat @sebpo.com
+ 2047, Kazi Quiyumur Rahman, Analyst, Risk & Compliance, kqrahman@sebpo.com
+ 2050, Susmita Bhowmik, Analyst, Risk & Compliance, sbhowmik@sebpo.com
+ 2051, Analyst, Risk & Compliance, pdeb@sebpo.com,
+ 2075, Hasib Ahosan, Executive, IT, hasib.ahosan@sebpo.com
+ 2076, Ashief Ahmed, Chief Information Security Officer, IT, ashief@sebpo.com
+ 2062, Sowrav Saha, Analyst, Risk & Compliance, ssaha@sebpo.com
+ 2071, Shahariar Hafiz, Analyst, Risk & Compliance, shafiz@sebpo.com
+ 2055, Faisal Hossain, Analyst, Risk & Compliance, faisalh@sebpo.com
+ 2056, Syed Irtiza, Analyst, Risk & Compliance, sirtiza@sebpo.com
+ 2063, Faridul Islam, Analyst, Risk & Compliance, fislam@sebpo.com
+ 2064, Sazzad Hossain, Analyst, Risk & Compliance, sazzadh@sebpo.com
+ 2066, Intehad Uddin Pantho, Analyst, Risk & Compliance, iupantho@sebpo.com
+ 2074, Mir Asif Rahman, Analyst, Risk & Compliance, marahman@sebpo.com
+ 782, Rejaul Abedin, Senior Executive, Digital Ad Operations, rejaul.abedin@sebpo.com
+ 2058, Asrafuzzaman, asrafuzzaman@sebpo.com,,
+ 2077, Nabila Chowdhury, Software Engineer, Software Development, nabila.chowdhury@sebpo.com
+ 2098, Abdur Rahman Sajib, Executive, Digital Ad Ops, abdurrahman.Sajib@sebpo.com
+ 2101, Md. Mahmudul Hasan, Asst.System Administrator, IT, mahmudul@sebpo.com
+ 2102, Anup Kumar Kar, Software Engineer, Software Development, anup.kumar@sebpo.com
+ 2116, Shakil Ahmed, Executive, IT, shakil.ahmed@sebpo.com
+ 2105, Md. Badsha Sekandar, Executive, Digital Ad Operations, badsha.sekandar@sebpo.com
+ 2108, Zannatul Tazrin, Executive, Digital Ad Operations, zannatul.tazrin@sebpo.com
+ 2118, Sudarshi Chakma, Executive, Digital Ad Operations, sudarshi.chakma@sebpo.com
+ 2120, Md. Main Uddin Reza Ovi, Executive, IT, main.reza@sebpo.com
+ 2121, Arif Arman, arif.arman@aiimglobal.com,,
+ 2091, Romana Afroz, Executive, Digital Ad Operations, romana.afroz@sebpo.com
+ 2080, Md. Manik Molla, Executive, Digital Ad Ops, manik.molla@sebpo.com
+ 2097, Md. Abu Talha Sani, Executive, Digital Ad Operations, talha.sunny@sebpo.com
+ 2112, Ashraf-Ull-Hossin, Executive, Digital Ad Operations, ashraf.abir@sebpo.com
+ 1945, Md Tanviruzzaman, Executive, Digital Ad Operations, md.tanviruzzaman@sebpo.com
+ 2087, Ashraf Hossain, Executive, Digital Ad Ops, ashraf.hossain@sebpo.com
+ 2083, Shibly Rahman, Executive, Digital Ad Operations, shibly.rahman@sebpo.com
+ 2095, Mustafizur Rahman, Executive, Digital Ad Operations, rahman.mustafizur@sebpo.com
+ 2093, Apple Mahmud, Executive, Digital Ad Ops, apple.mahmud@sebpo.com
+ 2094, Shajidul Alam, Executive, Digital Ad Operations, shajidul.alam@sebpo.com
+ 2085, Nazir Uddin, Executive, Digital Ad Operations, nazir.uddin@sebpo.com
+ 2114, Mahamudur Rahman, Executive, Digital Ad Operations, mahamudur.rahman@sebpo.com
+ 2090, M Hasan, Executive, Digital Ad Operations, m.hasan@sebpo.com
+ 2088, Ahmed Nishat, Executive, Digital Ad Operations, ahmed.nishat@sebpo.com
+ 2103, Mohammad Eyasin, Executive, Digital Ad Operations, mohammad.eyasin@sebpo.com
+ 2104, Mehidi Hasan, Executive, Digital Ad Operations, mehidi.hasan@sebpo.com
+ 2109, Abdul Kayum, Executive, Digital Ad Operations, abdul.kayum@sebpo.com
+ 2126, Masum Rana, Analyst, Risk & Compliance, masumr@sebpo.com
+ 2127, Nasir Bhuiyan, Analyst, Risk & Compliance, nbhuiyan@sebpo.com
+ 2128, Ahmed Barek Wajih, Analyst, Risk & Compliance, abwajih@sebpo.com
+ 2129, Mostafizur Rahman, Analyst, Risk & Compliance, mostafizurr@sebpo.com
+ 2131, Nazmul Hasan, Analyst, Risk & Compliance, nazmhasan@sebpo.com
+ 2134, Mariya Rahman, mariyar@sebpo.com,,
+ 2135, Nicholas Tudu, Analyst, Risk & Compliance, ntudu@sebpo.com
+ 2137, Suruj Jaman, Analyst, Risk & Compliance, sjaman@sebpo.com
+ 2138, Shuvo Rashid, Social Media Specialist, SE Digital, shuvo.rashid@sebpo.com
+ 2100, Monotosh Talukder, Executive, Digital Ad Operations, monotosh.talukder@sebpo.com
+ 2106, Taslima Akter Moly, Executive, Digital Ad Operations, akter.moly@sebpo.com
+ 2042, Mohammad Sorwar Hossain, Executive, Administration, sorwar.hossain@sebpo.com
+ 2143, Shaheda Akter, Executive, Digital Ad Ops, shaheda.akter@sebpo.com
+ 2139, Md. Nazirul Haque Khan, Executive, Digital Ad Ops, nazirul.khan@sebpo.com
+ 2150, Mst. Lotifa Akter Shirin, Executive, Digital Ad Ops, lotifa.shirin@sebpo.com
+ 2142, Md. Saoghat Hossain, Executive, Digital Ad Ops, saoghat.hossain@sebpo.com
+ 2141, Md. Rakibul Islam, Executive, Digital Ad Ops, rakibul.islam@sebpo.com
+ 2161, Ali Ahsan, Executive, Digital Ad Ops, ali.ahsan@sebpo.com
+ 2149, Touseef Mesbah Kazi, Executive, Digital Ad Ops, touseef.mesbah@sebpo.com
+ 2146, Khademul Islam Bappy, Executive, Digital Ad Ops, khademul.islam@sebpo.com
+ 2145, Md. Rayhan Uz Zaman, Executive, Digital Ad Ops, rayhan.zaman@sebpo.com
+ 2144, Mobassher Ahmed, Executive, Digital Ad Ops, mobassher.ahmed@sebpo.com
+ 2167, Mahbubul Alam, Executive, Digital Ad Ops, mahbubul.alam@sebpo.com
+ 0000, Jim Battista, jim@sebpo.com,,
+ 2168, Nirvoy Nakib, Executive, Digital Ad Ops, nirvoy.nakib@sebpo.com
+ 2176, Md. Sanaul Haque, Executive, Digital Ad Ops, mdsanaul.haque@sebpo.com
+ 2198, Sadil Jami Al Musa, Executive, Digital Ad Ops, sadil.musa@sebpo.com
+ 2187, Dianot Hossain, Executive, Digital Ad Ops, dianot.hossain@sebpo.com
+ 2200, Shekh Said, Executive, IT, shekh.said@sebpo.com
+ 2201, Lajuk Rodrex, Executive, IT, lajuk.rodrex@sebpo.com
+ 2185, Robial Hasan, Executive, Digital Ad Ops, robial.hasan@sebpo.com
+ 2186, Ahmed Faisal, ahmed.faisal@sebpo.com,,
+ 2164, Md. Tarek Mahmud, Executive, Digital Ad Ops, tarek.mahmud@sebpo.com
+ 2172, Rejwana Karim Retu, Executive, Digital Ad Ops, rejwana.retu@sebpo.com
+ 2171, Mohammad Imtiazul Alam Bhuiyan, Executive, Digital Ad Ops, imtiaz.alam@sebpo.com
+ 2156, Farjana Afrin Tisha, Executive, Digital Ad Ops, farjana.tisha@sebpo.com
+ 2155, Md. Mohimenul Hasan, Executive, Digital Ad Ops, mohimenul.hasan@sebpo.com
+ 2158, Md. Anik Islam, Executive, Digital Ad Ops, anik.islam@sebpo.com
+ 2157, Md. Iqbal Hossen, Executive, Digital Ad Ops, iqbal.hossen@sebpo.com
+ 2182, Fahmid Shariour Pranto, fahmid.shariour@sebpo.com,,
+ 2196, Md. Habibur Rahman, Executive, Digital Ad Ops, habibur.rahman@sebpo.com
+ 2220, Md. Badrul Alam, Software Engineer, Software Development, badrul.alam@sebpo.com
+ 2117, md.ibrahim, Executive, Digital Ad Operations, md.ibrahim@sebpo.com
+ 2173, Ahnaf Tazoar, Executive, Digital Ad Ops, ahnaf.tazoar@sebpo.com
+ 2190, Muntasir Rahman, Executive, Digital Ad Ops, muntasir.rahman@sebpo.com
+ 2222, Bhuiyan Mustafa Tawheed, Software Engineer, Software Development, mustafa.tawheed@sebpo.com
+ 2224, S. M. Salman Siddik, Executive, IT, salman.siddik@sebpo.com
+ 2130, Hasan Shamsuddoha, hasans@sebpo.com,,
+ 2058, Asraf uz Zaman, Analyst, Risk & Compliance, azaman@sebpo.com
+ 2202, Mahi Uddin Ahmed, Analyst, Risk & Compliance, muahmed@sebpo.com
+ 2206, Shuayeb Hossain, Analyst, Risk & Compliance, shuayebh@sebpo.com
+ 2207, Kamrunnahar Begum Sonia, Analyst, Risk & Compliance, kbsonia@sebpo.com
+ 2208, Rafsan Ahmed, Analyst, Risk & Compliance, rafsana@sebpo.com
+ 2210, Syed Ekram Shibly, Analyst, Risk & Compliance, seshibly@sebpo.com
+ 2212, Abdul Gaffer Roney, Analyst, Risk & Compliance, agroney@sebpo.com
+ 2213, Shahed Iqbal Chowdhury, Analyst, Risk & Compliance, sichowdhury@sebpo.com
+ 2215, Washek Faysal, Analyst, Risk & Compliance, wfaysal@sebpo.com
+ 2216, Ummay Maimona Akter, Analyst, Risk & Compliance, umakter@sebpo.com
+ 2218, Mamun Mia, Analyst, Risk & Compliance, mamunm@sebpo.com
+ 2235, Alok Sen, Executive, Digital Ad Ops, alok.sen@sebpo.com
+ 2174, Muhtasim Muin, Executive, Digital Ad Ops, muhtasin.muin@sebpo.com
+ 2191, Md. Nur Uddin, Executive, Digital Ad Ops, nur.uddin@sebpo.com
+ 2194, Kh Sorwar Rahman, Executive, Digital Ad Ops, sorwar.rahman@sebpo.com
+ 2193, Md. Amirul Huda, Executive, Digital Ad Ops, amirul.huda@sebpo.com
+ 2192, Md. Reazul Hassan Turzo, Executive, Digital Ad Ops, hassan.turzo@sebpo.com
+, Sabia Arefin, Executive, Digital Ad Ops, sabia.arefin@sebpo.com
+ 2181, Mahmudur Rahman Shakeel, rahman.shakeel@sebpo.com,,
+ 2197, Syeda Farjana Farabi, Executive, Digital Ad Ops, farjana.farabi@sebpo.com
+ 2183, Md. Jahidul Islam,, islam.jahidul@sebpo.com,
+ 2244, Sadia Afreen Nishi, Executive, Digital Ad Ops, sadia.afreen@sebpo.com
+ 2230, Md. Abir Wahid, Executive, Digital Ad Operations, abir.wahid@sebpo.net
+ 2239, Md. Nafis Alam, Executive, Digital Ad Operations, nafis.alam@sebpo.com
+ Alam Ashraful, Executive, Digital Ad Ops, alam.ashraful@sebpo.com,
+ Farhana Bhuiyan, Executive, Digital Ad Ops, farhana.bhuiyan@sebpo.com,
+ Tamanna Zafrin, Executive, Digital Ad Ops, tamanna.zafrin@sebpo.com,
+ arifa jannat, Executive, Digital Ad Ops, arifa.jannat@sebpo.com,
+ Md. Zobayar, zobayar@sebpo.com,,,
+ 781, Rahman Mustafijur, Executive, Digital Ad Operations, rahman.mustafijur@sebpo.com
+ 2241, Jannat-E-Noor, Executive, Digital Ad Ops, jannat.noor@sebpo.com
+ 2248, Samiul Hasan, Analyst, Risk & Compliance, samiulh@sebpo.com
+ 2249, Tuly Garetti Rozario, Analyst, Risk & Compliance, tgrozario@sebpo.com
+ 2252, Mohammed Israfil, Analyst, Risk & Compliance, misrafil@sebpo.com
+ 2254, Abdul Kashem Parvez Sazzad, Analyst, Risk & Compliance, akpsazzad@sebpo.com
+ 2255, Sudipta Karmaker, Analyst, Risk & Compliance, skarmaker@sebpo.com
+ 2256, Parvez Alam Khan Abir, Analyst, Risk & Compliance, pakabir@sebpo.com
+ 2131, Nazmul Hasan, nazhasan@sebpo.com,,
+ 2259, Aranya Dey, Senior Executive, IT, aranya.dey@sebpo.com
+ 2274, Md. Ashraful Alam, ashraful@sebpo.com,,
+ 2227, Sadab Hassan Sayed, Executive, Digital Ad Ops, sadab.hassan@sebpo.com
+ 2231, Suprim Biswas, Executive, Digital Ad Ops, suprim.biswas@sebpo.com
+ 2262, Md. Humayun Kabir, Graphics Designer, Creative Development, humayun.kabir@sebpo.com
+ 2261, Md.Jahidul Islam, Graphics Designer, Creative Development, j.islam@sebpo.com
+ 2294, Shamima Nasrin, Executive, Digital Ad Operations, shamima.nasrin@sebpo.com
+ Parvez Islam, Technical Specialist, Business Development, parvez.islam@aiimglobal.com,
+ 2297, MD. Farhan Nadim Ratul, Executive, Digital Ad Operations, farhan.nadim@sebpo.com
+ Kowshik Baral, Executive, Digital Ad Operations, kowshik.baral@sebpo.com,
+ Moyazzem Hossen Sazon, Analyst, Risk & Compliance, mhsazon@sebpo.com,
+ Zaria Akter Tandra, Analyst, Risk & Compliance, zatandra@sebpo.com,
+ Hasnat Shoheb, Analyst, Risk & Compliance, hshoheb@sebpo.com,
+ Mohammad Maniruzzaman, Analyst, Risk & Compliance, mmaniruzzaman@sebpo.com,
+ Arif Hasan, Analyst, Risk & Compliance, ahasan@sebpo.com,
+ Manos Kumar Roy, Analyst, Risk & Compliance, mkroy@sebpo.com,
+ Tariqul Islam Rifat, Analyst, Risk & Compliance, tirifat@sebpo.com,
+ 2280, Toukir Ahmad, Executive, Digital Ad Operations, toukir.ahmad@sebpo.com
+, Emran Ahmed, Executive, Digital Ad Operations, emran.ahmed@sebpo.com
+, Md. Abul Kashem Noyon, Executive, Digital Ad Operations, abul.noyon@sebpo.com
+ 2226, Ishtiaq Ahmad, Executive, Digital Ad Ops, ishtiaq.ahmad@sebpo.com
+ 2229, Md. Yusuf Bin Aziz, Executive, Digital Ad Ops, yusuf.aziz@sebpo.com
+ 2240, Nazeid Mohammad Sayed, Executive, Digital Ad Ops, nazeid.rahman@sebpo.com
+ 2242, Mohammad Maksodur Rhaman, Executive, Digital Ad Ops, mohammad.rahman@sebpo.com
+ 2247, Syeda Mayeesha Farzana, Executive, Digital Ad Ops, mayeesha.farzana@sebpo.com
+ 2285, S. M. Mohaimenul Islam, Executive, Digital Ad Operations, mohaimenul.islam@sebpo.com
+ 2296, Nafisa Kashfi, Executive, Digital Ad Operations, nafisa.kashfi@sebpo.com
+ 2289, MD. Arif Masum, Executive, Digital Ad Operations, arif.masum@sebpo.com
+ 2288, MD. Imran Hasan, Executive, Digital Ad Operations, imran.hasan@sebpo.com
+ 2295, Khadijatul Kobra Shila, Executive, Digital Ad Operations, khadijatul.kobra@sebpo.com
+ 2284, Md Tariqul Islam, Executive, Digital Ad Operations, tariqul.islam@sebpo.com
+ 2113, Md. Fahimul Haque Abir, Executive, Digital Ad Operations, abir.haque@sebpo.com
+ 2260, M Hasan, mahadi.hasan@sebpo.com,,
+ 2232, Md.Mahmudul Hasan, Executive, Digital Ad Ops, mahmudul.shujan@sebpo.com
+ 2260, Md. Mahadi Hasan, Graphics Designer, Creative Development, mahadi.hasan1@sebpo.com
+ 2293, Zayem Tajdid, Executive, Digital Ad Operations, zayem.tajdid@sebpo.com
+ Piplu Sony, Executive, Digital Ad Operations, piplu.sony@sebpo.com,
+ 2298, Md. Mehedi Hasan Khan, Executive, Digital Ad Operations, mehedi.khan@sebpo.com
+ Abu Md Mishan Ibne Akhter, Executive, Digital Ad Operations, abu.mishan@sebpo.com,
+ Hosni Mubarak Sajid, Executive, Digital Ad Operations, mubarak.sajid@sebpo.com,
+ 2278, Dipu Kumar Das, Executive, Digital Ad Operations, dipu.kumar@sebpo.com
+ 2286, Md. Afzal Kabir, Executive, Digital Ad Operations, afzal.kabir@sebpo.com
+ 2292, Md.Ehatesham Al Mubin, Executive, Digital Ad Operations, ehatesham.mubin@sebpo.com
+ 2277, Faisal Mahmood, Executive, Digital Ad Operations, faisal.mahmood@sebpo.com
+ Md. Nazmul Hasan, nazmul.hasan@sebpo.com,,,
+ 2300, Rownak Tashnim, Senior Executive, Sales Department(AIIM Global), rownak.tashnim@aiimglobal.com
+ 2322, K.B.M. Nasiruzzaman, nasir.zaman@sebpo.com,,
+ 2304, Forkan Abdur Rahim, Analyst, Risk & Compliance, farahim@sebpo.com
+ 2305, Faisal Ahmed, Analyst, Risk & Compliance, fahmed@sebpo.com
+ 2307, Abied Hossain, Analyst, Risk & Compliance, abihossain@sebpo.com
+ 2308, ahmed, Analyst, Risk & Compliance, faahmed@sebpo.com
+ 2309, Salman Islam, Analyst, Risk & Compliance, salmani@sebpo.com
+ 2311, Nahid Ferdous, Analyst, Risk & Compliance, nferdous@sebpo.com
+ 2312, Abid Samdany, Analyst, Risk & Compliance, asamdany@sebpo.com
+ 2313, Mohi Uddin Siyam, Analyst, Risk & Compliance, musiyam@sebpo.com
+ 2314, Jasmin Rahman, Analyst, Risk & Compliance, jrahman@sebpo.com
+ 2316, Mehedi Hasan Munna, Analyst, Risk & Compliance, mhmunna@sebpo.com
+ 2318, Sayeed Mahfuz, Analyst, Risk & Compliance, smahfuz@sebpo.com
+ 2238, Rezwan Islam, Executive, Digital Ad Ops, rezwan.islam@sebpo.com
+ 2291, Md. Soyeb Hasan, Executive, Digital Ad Operations, soyeb.hasan@sebpo.com
+ 2323, Md. Sirajul Islam, sirajul.prince@sebpo.com,,
+ 2119, Md Mahmudul Hasan, Executive, Digital Ad Operations, mdmahmudul.hasan@sebpo.com
+ 2082, Md. Mehrab Hossain, Executive, Digital Ad Ops, mdmehrab.hossain@sebpo.com
+ 2350, Md. Shahriar Hossain, Executive, Digital Ad Operations, hossain.shahriar@sebpo.com
+ 2341, Md. Sajid Ahmed, Executive, Digital Ad Operations, sajid.ahmed@sebpo.com
+ 2345, Md. Abir Ibna Rouf, Executive, Digital Ad Operations, abir.rouf@sebpo.com
+ 2325, Mahmudul Hasan, Analyst, Risk & Compliance, mahmudh@sebpo.com
+ 2326, Abir Fahad Bin Azad, Analyst, Risk & Compliance, afbazad@sebpo.com
+ 2329, Habiba Thahrima Asha, Analyst, Risk & Compliance, htasha@sebpo.com
+ 2331, Fathmi Easmin Chaity, Analyst, Risk & Compliance, fechaity@sebpo.com
+ 2332, Taslima Taher Aely, Analyst, Risk & Compliance, ttaely@sebpo.com
+ 2333, Rukaya Khatun, Analyst, Risk & Compliance, rkhatun@sebpo.com
+ 2336, Fokrul Hasan, Analyst, Risk & Compliance, fhasan@sebpo.com
+ 2337, Ragib Hasan, Analyst, Risk & Compliance, rhasan@sebpo.com
+ 2338, Radwan Uddin Refat, Analyst, Risk & Compliance, rurefat@sebpo.com
+ 2339, Ripa Brijet Gomes, Analyst, Risk & Compliance, rbgomes@sebpo.com
+ 2356, Mahfuja Islam, Analyst, Risk & Compliance, mahfujai@sebpo.com
+ 2358, Shahidul Islam, Analyst, Risk & Compliance, shaislam@sebpo.com
+, Executive, Digital Ad Operations, tanvir.ahmed@sebpo.com,
+ 2347, Md. Rashidul Hoque Bappi, Executive, Digital Ad Operations, rashidul.hoque@sebpo.com
+, Executive, Digital Ad Operations, ariful.islam@sebpo.com,
+, Mirza Essa Neebraz, Executive, Digital Ad Operations, mirza.neebraz@sebpo.com
+ 2359, Nishat Tasnim Nishe, Executive, Digital Ad Operations, nishat.nishe@sebpo.com
+ 2360, Kifat Ara Orin, Executive, Digital Ad Operations, kifat.orin@sebpo.com
+ 2361, Nusrat Hossain, Executive, Digital Ad Operations, nusrat.hossain@sebpo.com
+ 2362, Salma Akter, Executive, Digital Ad Operations, salma.akter@sebpo.com
+, Nusrat Orith Nishat, Executive, Digital Ad Operations, nusrat.nishat@sebpo.com
+, Ishrat Jahan Dewan, Executive, Digital Ad Operations, ishrat.dewan@sebpo.com
+ 2365, Sharmin Akter, Executive, Digital Ad Operations, sharmin.akter@sebpo.com
+ 2366, Mahmuda Sharmin, Executive, Digital Ad Operations, mahmuda.sharmin@sebpo.com
+ 2367, Afnan Sultana Shetu, Executive, Digital Ad Operations, afnan.shetu@sebpo.com
+ 2368, Laboni Akter, Executive, Digital Ad Operations, laboni.akter@sebpo.com
+ 2369, Zinnia Khan Nishat, Executive, Digital Ad Operations, zinnia.nishat@sebpo.com
+ Md. Abu Hena Mostofa Kamal, Executive, Digital Ad Operations, ahm.kamal@sebpo.com,
+ 2342, Md Zia Uddin Kawsar, Executive, Digital Ad Operations, uddin.kawsar@sebpo.com
+ 2340, Barket Ullah, Executive, Digital Ad Operations, barket.ullah@sebpo.com
+ 2348, G. M. Kaiser Akash, Executive, Digital Ad Operations, kaiser.akash@sebpo.com
+ 2267, Mosfik Us Salahin, musalahin@sebpo.com,,
+ 2396, Sadat Hussain, sadat.hussain@sebpo.com,,
+ 845, Ext Iaop,,,
+ 2370, Md. Bengir Ahmed, Executive, Digital Ad Operations, bengir.ahmed@sebpo.com
+ 2390, Zico Sutar, Executive, Digital Ad Operations, zico.sutar@sebpo.com
+ 2394, Afsana Bilkis, Executive, Digital Ad Operations, afsana.bilkis@sebpo.com
+ 2378, Md. Tazul Islam Khan, Executive, Digital Ad Operations, tazul.islam@sebpo.com
+ 2384, Anas Bin Arshad, Executive, Digital Ad Operations, anas.arshad@sebpo.com
+ 2375, Moksadul Hassan, Executive, Digital Ad Operations, moksadul.hassan@sebpo.com
+ 2383, Ashraful Alim, Executive, Digital Ad Operations, ashraful.alim@sebpo.com
+ 0000, carmy, carmy@sebpo.com,,
+ 2400, Makudur Rahman, maksudur.rahman@sebpo.com,,
+ 2379, Shuvojit Chakrobarty, Executive, Digital Ad Operations, shuvojit.chakrobarty@sebpo.com
+ 2372, Abdullah Al Noman, abdullah.noman@sebpo.com,,
+ 2386, Sumit Roy Chowdhury,,,
+ 2382, Md. Ashraf Ali, ashraf.ali@sebpo.com,,
+ 2401, Ashiqur Rahman, SQ Engineer, Creative Development, ashiqur.rahman@sebpo.com
+ 2402, Kaisar Ahmed, QA Executive, Creative Development, kaisar.sumon@sebpo.com
+ 2403, A.S.M. Shoaib Tanim, Creative Designer, Creative Development, shoaib.tanim@sebpo.com
+ 2404, Md. Tasdik, Creative Designer, Creative Development, md.tasdik@sebpo.com
+ 2405, Nayeem Sarkar, Creative Designer, Creative Development, nayeem.sarkar@sebpo.com
+ 2381, Anisur Rahman, Executive, Digital Ad Operations, anisur.rahman@sebpo.com
+ 2384, Mohammad Azad, mohammad.azad@sebpo.com,,
+ 2374, Tarik Hossen, Executive, Digital Ad Operations, tarik.hossen@sebpo.com
+ 2377, Mohammad Sheartaj, Executive, Digital Ad Operations, mohammad.sheartaj@sebpo.com
+ 2351, Md. Tariqul Islam, Executive, Digital Ad Operations, md.tariqul@sebpo.com
+, Mahbuba Akter Maliha, Executive, Digital Ad Operations, mahbuba.maliha@sebpo.com
+ 2399, Raihanul Abedin-Al-Atique, Executive, Digital Ad Operations, raihanul.atique@sebpo.com
+ 2389, Md. Ibrahim Alam, Executive, Digital Ad Operations,
+ 2391, Md. Rezwan Rahman, Executive, Digital Ad Operations, rezwan.rahman@sebpo.com
+ 2387,, Executive, Digital Ad Operations, shorif.hossain@sebpo.com
+ 2376, Mohammad Shahriar, Executive, Digital Ad Operations, shahriar.reza@sebpo.com
+ 2373, Chandan Mandal, Executive, Digital Ad Operations, chandan.mandal@sebpo.com
+ 2392, Sonot Kumar Karmokar, Executive, Digital Ad Operations, sonot.kumar@sebpo.com
+ 2424, MOU RANI SARKAR, Executive, Digital Ad Operations, mou.sarkar@sebpo.com
+ 2428, Md. Torikul Islam, Executive, Digital Ad Operations, torikul.islam@sebpo.com
+ 2412, Mohammad Iqbal, Executive, Digital Ad Operations, mohammad.iqbal@sebpo.com
+ 2432, Asheka Khanam Nishi, Executive, Digital Ad Operations, asheka.nishi@sebpo.com
+ 2411, Md. Nazim Khandaker Emon, Executive, Digital Ad Operations, nazim.emon@sebpo.com
+ 2420, Abdulla Al Mamun, Executive, AdOps, mamun.abdulla@sebpo.com
+ 2408, Noman Siddique Bhuiyan, Executive, AdOps, noman.siddique@sebpo.com
+ Rahat Readoy, Analyst, Risk & Compliance, rreadoy@sebpo.com,
+ Shajjatul Islam, Analyst, Risk & Compliance, shajjatuli@sebpo.com,
+ Abul Khayer Ehsanul Haque, Analyst, Risk & Compliance, akehaque@sebpo.com,
+ Gamseng Chiran, Analyst, Risk & Compliance, gchiran@sebpo.com,
+ Nushrat Jahan, Analyst, Risk & Compliance,,
+ Shafana Ashrafi, Analyst, Risk & Compliance, sashrafi@sebpo.com,
+ Rashedul Islam, Analyst, Risk & Compliance,,
+ Tanvir Haque Sumon, Analyst, Risk & Compliance, thsumon@sebpo.com,
+ Shahnur Kadri Shayan, Analyst, Risk & Compliance, skshayan@sebpo.com,
+ Salah Uddin, Analyst, Risk & Compliance, suddin@sebpo.com,
+ Zakir Hussain, Analyst, Risk & Compliance, zhussain@sebpo.com,
+ Maruful Islam, Analyst, Risk & Compliance, marufuli@sebpo.com,
+ Abu Saleh Ilias Hossain, Analyst, Risk & Compliance, asihossain@sebpo.com,
+ Mehtab Hossain Khan, Analyst, Risk & Compliance, mhkhan@sebpo.com,
+ Rafsan Khan, Analyst, Risk & Compliance, rkhan@sebpo.com,
+ Abed Ceum, Analyst, Risk & Compliance, aceum@sebpo.com,
+ Abir Mollick, Analyst, Risk & Compliance, amollick@sebpo.com,
+ Afsana Rabeya Rukaia, Analyst, Risk & Compliance, arrukaia@sebpo.com,
+ 2371, Saleh Akram Rafi, Executive, Digital Ad Operations, saleh.akram@sebpo.com
+ 2385, Tanjil Ahmed, Executive, Digital Ad Opration, tanjil.ahmed@sebpo.com
+ 2407, Shahriar Sazzad, Executive, Adops, shahriar.sazzad@sebpo.com
+ 2409, Noor Mohammad Zahid, Executive, Adops, noor.mohammad@sebpo.com
+ 2410, Khondoker Abdul Mazed, Executive, Adops, abdul.mazed@sebpo.com
+ 2413, Md. Rahim Ur Rahman Rafi, Executive, Adops, rahman.rafi@sebpo.com
+ Nourin Islam, Executive, Adops, nourin.islam@sebpo.com,
+ 2415, Md. Arifur Rahman, Executive, Adops, arifur.rahman@sebpo.com
+ 2417, Fatema Afroz Priya, Executive, Adops, fatema.afroz@sebpo.com
+ 2418, Md. Nehan Hasan, Executive, Adops, nehan.hasan@sebpo.com
+ 2419, Mohammad Sadman Sadab Gazi, Executive, Adops, sadman.sadab@sebpo.com
+ 2421, Md. Shamsul Alam, Executive, Adops, shamsul.alam@sebpo.com
+ 2423, Tarekuzzaman Limon, Executive, Adops, tarekuzzaman.limon@sebpo.com
+ 2425, A.B.M Abdullah Al Noman, Executive, Adops, noman.abdullah@sebpo.com
+ 2426, Ashraf Mahamud Rifat, Executive, Adops, ashraf.rifat@sebpo.com
+ 2427, Agar Akique Chowdhury, Executive, Adops, agar.akique@sebpo.com
+ 2429, Muhammad Ali Miazi, Executive, Adops, muhammad.ali@sebpo.com
+ 2430, Sarah Siddiqueea, Executive, Adops, sarah.siddiqueea@sebpo.com
+ 2431, Mehera Kabir Dola, Executive, Adops, mehera.kabir@sebpo.com
+ 2433, Md. Neamot Mollah, Executive, Adops, neamot.mollah@sebpo.com
+ Van Kapeghian, van@sebpo.com,,,
